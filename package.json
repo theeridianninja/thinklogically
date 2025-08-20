@@ -22,7 +22,7 @@
     "@fontsource/open-sans": "^5.0.20",
     "@types/alpinejs": "^3.13.5",
     "alpinejs": "^3.13.3",
-    "astro": "^5.12.8",
+    "astro": "^5.13.2",
     "flowbite": "^2.2.1",
     "htmlparser2": "^9.0.0",
     "sharp": "^0.33.1",
